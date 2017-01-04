@@ -1,0 +1,2 @@
+# MetaHome
+So what’s a smart MetaHome? It’s a home that is a joy to live in, is resilient to natural hazards, and uses 95% less energy than it did before the conversion. It has exactly the right ambiance for its inhabitants, whatever their age, physical condition, or social group. And it does all that transparently to the inhabitants by harnessing the Internet of Things (IoT) to be both self-referential and continuously self-analytical through a parametric virtual model of itself.
